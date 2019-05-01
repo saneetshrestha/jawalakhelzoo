@@ -1,0 +1,19 @@
+.header-content {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 100% 0;
+  min-height: 867px; }
+
+.navbar-container {
+  width: 1558px;
+  margin-left: auto; }
+
+#header {
+  display: flex; }
+  #header .logo {
+    flex: 0 1 322px;
+    max-width: 322px; }
+  #header .links {
+    margin-left: auto; }
+
+/*# sourceMappingURL=header.css.map */
